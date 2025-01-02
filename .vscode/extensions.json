@@ -1,6 +1,10 @@
 {
-	"recommendations": [
-		"Vue.volar",
-		"Vue.vscode-typescript-vue-plugin"
-	]
+  "recommendations": [
+    "Vue.volar",
+    "simonhe.common-intellisense",
+    "antfu.iconify",
+    "dbaeumer.vscode-eslint",
+    "ant-design-vue.vscode-ant-design-vue-helper",
+    "lokalise.i18n-ally"
+  ]
 }

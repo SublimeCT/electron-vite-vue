@@ -12,12 +12,13 @@
 
 ## Features
 
-📦 Out of the box  
-🎯 Based on the official [template-vue-ts](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-vue-ts), less invasive  
-🌱 Extensible, really simple directory structure  
-💪 Support using Node.js API in Electron-Renderer  
-🔩 Support C/C++ native addons  
-🖥 It's easy to implement multiple windows  
+- 📦 Out of the box  
+- 🎯 Based on the official [template-vue-ts](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-vue-ts), less invasive  
+- 🌱 Extensible, really simple directory structure  
+- 💪 Support using Node.js API in Electron-Renderer  
+- 🔩 Support C/C++ native addons  
+- 🖥 It's easy to implement multiple windows  
+- 🖋 Support [cz-git](https://cz-git.qbb.sh/zh/guide/) & [commitlint](https://github.com/conventional-changelog/commitlint)
 
 ## Quick Setup
 
